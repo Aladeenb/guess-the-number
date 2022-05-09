@@ -1,2 +1,2 @@
 # guess the number
- simple game created using emu8086
+ simple multi-player game created using emu8086
