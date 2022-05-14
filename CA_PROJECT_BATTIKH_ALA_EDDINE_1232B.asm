@@ -1,5 +1,3 @@
-name "CA_PROJECT_1232B_BATTIKH_ALA_EDDINE"
-
 include 'emu8086.inc'  
 
 org 100h 
